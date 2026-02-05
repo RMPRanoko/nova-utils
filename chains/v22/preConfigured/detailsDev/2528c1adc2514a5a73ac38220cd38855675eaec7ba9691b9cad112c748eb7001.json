@@ -1,0 +1,19 @@
+{
+    "chainId": "2528c1adc2514a5a73ac38220cd38855675eaec7ba9691b9cad112c748eb7001",
+    "name": "RMP Production",
+    "assets": [
+        {
+            "assetId": 0,
+            "symbol": "RMP",
+            "precision": 12,
+            "icon": "RMPMain.svg"
+        }
+    ],
+    "nodes": [
+        {
+            "url": "wss://rpc.remappedprotocol.org",
+            "name": "RMP Production"
+        }
+    ],
+    "addressPrefix": 42
+}

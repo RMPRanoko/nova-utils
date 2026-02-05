@@ -1,5 +1,9 @@
 [
     {
+        "chainId": "2528c1adc2514a5a73ac38220cd38855675eaec7ba9691b9cad112c748eb7001",
+        "name": "RMP Production"
+    },
+    {
         "chainId": "daab8df776eb52ec604a5df5d388bb62a050a0aaec4556a64265b9d42755552d",
         "name": "Composable Finance (SHUTTING DOWN)"
     },
